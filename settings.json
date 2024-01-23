@@ -1,0 +1,61 @@
+{
+  //Open json editor for settings
+  "workbench.settings.editor": "json",
+  "workbench.editor.enablePreview": false,
+
+  //Theme
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Lunar Pink",
+
+  //Font
+  "editor.fontSize": 16,
+  "terminal.integrated.fontSize": 14,
+
+  //UI
+  "editor.formatOnSave": true,
+  "editor.minimap.autohide": true,
+  "window.commandCenter": false,
+  "editor.scrollbar.vertical": "auto",
+  "editor.scrollbar.horizontal": "auto",
+
+  "terminal.integrated.env.windows": {},
+  "console-ninja.featureSet": "Community",
+  "indentRainbow.colors": [
+    "rgba(255,255,64,0.7)",
+    "rgba(127,255,127,0.7)",
+    "rgba(255,127,255,0.7)",
+    "rgba(79,236,236,0.7)"
+  ],
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.fontLigatures": false,
+
+  "indentRainbow.indentSetter": {},
+  "indentRainbow.indicatorStyle": "light",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "files.autoSave": "afterDelay",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "git.enableSmartCommit": true,
+  "glassit.alpha": 0,
+  "window.titleBarStyle": "custom",
+  "vscode_vibrancy.imports": ["/path/to/file"],
+  "vscode_vibrancy.theme": "Catppuccin Mocha",
+  "workbench.layoutControl.enabled": false,
+  "window.menuBarVisibility": "compact",
+  "vscode_vibrancy.opacity": -1,
+  "vscode_vibrancy.type": "acrylic",
+  "git.confirmSync": false,
+  "dart.debugExternalPackageLibraries": true,
+  "dart.debugSdkLibraries": false,
+  "redhat.telemetry.enabled": false,
+  "cloudcode.duetAI.project": "fluttertutorial-mynotes",
+  "workbench.startupEditor": "none",
+  "explorer.confirmDelete": false,
+  "terminal.integrated.tabs.location": "left",
+  "terminal.integrated.tabs.enabled": false,
+  "apc.buttons": []
+}
